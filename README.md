@@ -1,2 +1,2 @@
-# A.Eni-teyn.project
+# A.Enisteyn.project
 Yalnız HTML vasitəsiylə Enişteyn haqqında random və əsas məlumatlar.
